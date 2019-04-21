@@ -1,0 +1,7 @@
+Setup Guide : 
+Step 1 ) Create a Database with the name of Guvi
+Step 2 ) Edit the the connection file ( establish_db_connection.php )
+Step 3 ) Open ( table_population.php ) for create a table in database.
+Step 4 ) Finally run the index.php file.
+
+Contact Number 9578443709
